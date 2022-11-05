@@ -1,0 +1,27 @@
+{
+  "name": "practice-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "combine:report": "mochawesome-merge cypress/results/json/*.json -o index.json",
+    "generate:report": "marge index.json --reportDir reports --assetsDir reports/assets --reportPageTitle Practice-Form",
+    "run": "cypress run --headless --browser chrome",
+    "test": "npm run run && npm run combine:report && npm run generate:report",
+    "open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renalprahardis/practice-form.git"
+  },
+  "author": "Renal Prahardis",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.3.0",
+    "cypress-file-upload": "^5.0.8",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.2.1",
+    "mochawesome-report-generator": "^6.2.0",
+    "cypress-multi-reporters": "^1.6.1"
+  }
+}
