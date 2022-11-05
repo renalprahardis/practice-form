@@ -75,4 +75,4 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/video.gif
