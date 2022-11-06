@@ -1,23 +1,15 @@
-# Practice-Form
 
-<div id="top"></div>
-
-
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/renalprahardis/practice-form">
-    <img src="images/avatar.png" style="width:150px;>                                    
-  </a>
+  <img src="images/avatar.png" style="width:150px;>                                    
 
-  <h3 align="center"></h3>                                       
-  <h3 align="center">RENAL PRAHARDIS</h3>
+  <h3 align="center"></h3>        
+  <h2 style="color:#FFFFFF;text-align:center">RENAL PRAHARDIS</h2>                               
+  <!-- <h3 align="center">RENAL PRAHARDIS</h3> -->
 
   <p align="center">
     This is a project for Practice Form
     <br />
-    <a href="https://github.com/renalprahardis/practice-form"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/renalprahardis/practice-form#getting-started"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -66,7 +58,7 @@
 
 ## Reporting
 
-* cypress/reports/index.html
+* reports/index.html
 
 ## Contact
 
