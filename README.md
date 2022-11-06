@@ -4,7 +4,6 @@
 
   <h3 align="center"></h3>        
   <h2 style="color:#FFFFFF;text-align:center">RENAL PRAHARDIS</h2>                               
-  <!-- <h3 align="center">RENAL PRAHARDIS</h3> -->
 
   <p align="center">
     This is a project for Practice Form
@@ -17,7 +16,6 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
