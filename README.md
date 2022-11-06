@@ -66,7 +66,7 @@
 
 ## Reporting
 
-* cypress/reports/index.html
+* reports/index.html
 
 ## Contact
 
